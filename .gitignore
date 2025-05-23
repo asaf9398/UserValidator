@@ -1,9 +1,4 @@
 # IntelliJ IDEA
-.idea/
-*.iml
-*.iws
-out/
-*.class
 
 # JARs
 *.jar
