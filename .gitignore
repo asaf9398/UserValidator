@@ -1,0 +1,38 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+out/
+*.class
+
+# JARs
+*.jar
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Compiled bytecode
+*.class
+
+# Generated files
+*.war
+*.ear
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code (in case opened elsewhere)
+.vscode/
+
+# JetBrains compiled results
+/build/
